@@ -1,3 +1,6 @@
 [submodule "angular_search_jdm"]
 	path = angular_search_jdm
 	url = https://github.com/JohannGolmard/angular_search_jdm.git
+[submodule "node_search_jdm"]
+	path = node_search_jdm
+	url = https://github.com/JohannGolmard/node_search_jdm.git
